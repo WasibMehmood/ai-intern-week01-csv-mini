@@ -1,7 +1,7 @@
 import pandas as pd
 from summary import compute_average
 
-# Test Function to Check if Code compute correct average
+# Test Function to Check if Code compute correct averagee
 
 
 def test_avegrage():
