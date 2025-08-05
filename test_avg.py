@@ -4,7 +4,7 @@ from summary import compute_average
 # Test Function to Check if Code compute correct average
 
 
-def test_avegrage():
+def test_average():
     data = {
         "Name": ['Hassan', 'Awais'],
         "Math": [90, 80],
